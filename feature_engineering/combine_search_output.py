@@ -11,6 +11,8 @@ def title():
 import pandas as pd
 import numpy as np
 
+# Combine descriptions for each brand
+
 def get_desc(def_desc, co_desc):
 
     final_list = []
@@ -19,6 +21,8 @@ def get_desc(def_desc, co_desc):
             final_list.append(entry)
 
     return 'none' if not final_list else '; '.join(final_list)
+
+# Add together all text attributes
 
 def get_message(row_data):
 
@@ -31,6 +35,8 @@ def get_message(row_data):
 
     return msg
 
+# Utility function
+
 def check_log_norm(amounts, ep=1):
 
     if -ep <= amounts.mean() <= ep:
@@ -40,6 +46,8 @@ def check_log_norm(amounts, ep=1):
     print('Log-normalizing amounts')
     log_amounts = np.log(amounts)
     return (log_amounts - log_amounts.mean()) / log_amounts.std()
+
+# Combine the outputs given by the search script
 
 def combine_outputs(dataset):
 

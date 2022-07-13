@@ -50,6 +50,8 @@ def get_args():
 def set_seed(seed):
     np.random.seed(seed)
 
+# Format name for writing to file
+
 def get_name(args):
 
     name = 'brand-' + ('' if args.no_mcat else 'mcat-') + ('' if args.no_desc else 'desc-')
@@ -60,6 +62,8 @@ def get_name(args):
     name += 'seed' + str(args.seed)
 
     return name
+
+# Convert raw text into bag of words
 
 def bag_of_words(df, args):
 
@@ -117,6 +121,8 @@ def bag_of_words(df, args):
     print('Final bag of words has shape', bag.shape)
 
     return bag, y
+
+# Compress bag of words via TSVD and t-SNE
 
 def bag_reduction(bag, args):
 
