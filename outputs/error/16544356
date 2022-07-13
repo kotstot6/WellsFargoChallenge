@@ -1,0 +1,13 @@
+                                                                 
+                                                                                
+##############################################                                  
+INFORMATION                                                                     
+##############################################                                  
+                                                                                
+You have loaded the base anaconda environment. For specialized environments,    
+you must first enable them with `source activate [env]`.                        
+                                                                                
+For a full list of environments, type `conda env list`                          
+  
+*** Error in `python3': free(): invalid pointer: 0x00002abadc000078 ***
+/var/spool/slurmd/job16544356/slurm_script: line 17:  8169 Segmentation fault      python3 $2 $3

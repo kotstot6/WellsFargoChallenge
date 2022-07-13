@@ -1,0 +1,43 @@
+
+===== Settings =====
+--cis 80 --val_size 0.001 --n_checkpoints 2 --save_file results/metrics/1657152677.9948661.csv
+====================
+
+###############
+Epoch 1 of 2
+###############
+
+***************
+Checkpoint 1 Statistics
+Avg. Train Loss: 2.429291009902954
+Learning Rate Interval: [0.0001, 6.545084971874738e-05]
+Val. Accuracy: 0.05
+Val. F1 Score: 0.013605442176870748
+***************
+
+---------------
+Epoch 1 Statistics
+Avg. Train Loss: 2.3883515357971192
+Val. Accuracy: 0.05
+Val. F1 Score: 0.013605442176870748
+---------------
+
+###############
+Epoch 2 of 2
+###############
+
+***************
+Checkpoint 2 Statistics
+Avg. Train Loss: 2.3143054644266763
+Learning Rate Interval: [0.0001, 6.545084971874738e-05]
+Val. Accuracy: 0.175
+Val. F1 Score: 0.08644957983193279
+***************
+
+---------------
+Epoch 2 Statistics
+Avg. Train Loss: 2.3017693519592286
+Val. Accuracy: 0.125
+Val. F1 Score: 0.07284382284382285
+---------------
+

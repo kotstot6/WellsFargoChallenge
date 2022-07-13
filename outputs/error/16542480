@@ -1,0 +1,318 @@
+                                                                 
+                                                                                
+##############################################                                  
+INFORMATION                                                                     
+##############################################                                  
+                                                                                
+You have loaded the base anaconda environment. For specialized environments,    
+you must first enable them with `source activate [env]`.                        
+                                                                                
+For a full list of environments, type `conda env list`                          
+  
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.8s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done 100 out of 100 | elapsed:  1.4min finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done 100 out of 100 | elapsed:    0.2s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.6s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  77 out of  77 | elapsed:   48.2s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  77 out of  77 | elapsed:    0.1s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.7s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done 129 out of 129 | elapsed:  1.5min finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done 129 out of 129 | elapsed:    0.1s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.7s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done 129 out of 129 | elapsed:  1.4min finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done 129 out of 129 | elapsed:    0.1s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.4s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done 124 out of 124 | elapsed:  1.0min finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done 124 out of 124 | elapsed:    0.2s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.5s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  27 out of  27 | elapsed:   14.7s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  27 out of  27 | elapsed:    0.0s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.7s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  91 out of  91 | elapsed:  1.0min finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  91 out of  91 | elapsed:    0.1s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.8s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  92 out of  92 | elapsed:  1.2min finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  92 out of  92 | elapsed:    0.1s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.5s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  51 out of  51 | elapsed:   26.5s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  51 out of  51 | elapsed:    0.1s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.8s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  90 out of  90 | elapsed:  1.1min finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  90 out of  90 | elapsed:    0.1s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.5s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done 139 out of 139 | elapsed:  1.3min finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done 139 out of 139 | elapsed:    0.3s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.5s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done 106 out of 106 | elapsed:  1.0min finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done 106 out of 106 | elapsed:    0.2s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.4s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  77 out of  77 | elapsed:   35.9s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  77 out of  77 | elapsed:    0.1s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.4s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  64 out of  64 | elapsed:   28.6s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  64 out of  64 | elapsed:    0.1s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.5s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  94 out of  94 | elapsed:   50.1s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  94 out of  94 | elapsed:    0.2s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.4s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  23 out of  23 | elapsed:   10.6s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  23 out of  23 | elapsed:    0.0s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.4s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  32 out of  32 | elapsed:   15.3s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  32 out of  32 | elapsed:    0.1s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.8s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  87 out of  87 | elapsed:  1.2min finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  87 out of  87 | elapsed:    0.2s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.7s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  96 out of  96 | elapsed:  1.1min finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  96 out of  96 | elapsed:    0.1s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.4s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done 102 out of 102 | elapsed:   47.2s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done 102 out of 102 | elapsed:    0.2s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.9s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  53 out of  53 | elapsed:   45.9s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+
+[Parallel(n_jobs=1)]: Done  53 out of  53 | elapsed:    0.0s finished
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+
+job exception: min_samples_split must be an integer greater than 1 or a float in (0.0, 1.0]; got the integer 1
+
+Traceback (most recent call last):
+  File "main.py", line 129, in objective
+    clf.fit(X_train, y_train, eval_set=(X_test, y_test))
+TypeError: fit() got an unexpected keyword argument 'eval_set'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 214, in <module>
+    main(args, settings)
+  File "main.py", line 162, in main
+    best_point = fmin(fn=lambda x: objective(x, algo_dict['init'],
+  File "/home/kotstot/.conda/envs/pytorch_env/lib/python3.8/site-packages/hyperopt/fmin.py", line 586, in fmin
+    rval.exhaust()
+  File "/home/kotstot/.conda/envs/pytorch_env/lib/python3.8/site-packages/hyperopt/fmin.py", line 364, in exhaust
+    self.run(self.max_evals - n_done, block_until_done=self.asynchronous)
+  File "/home/kotstot/.conda/envs/pytorch_env/lib/python3.8/site-packages/hyperopt/fmin.py", line 300, in run
+    self.serial_evaluate()
+  File "/home/kotstot/.conda/envs/pytorch_env/lib/python3.8/site-packages/hyperopt/fmin.py", line 178, in serial_evaluate
+    result = self.domain.evaluate(spec, ctrl)
+  File "/home/kotstot/.conda/envs/pytorch_env/lib/python3.8/site-packages/hyperopt/base.py", line 892, in evaluate
+    rval = self.fn(pyll_rval)
+  File "main.py", line 162, in <lambda>
+    best_point = fmin(fn=lambda x: objective(x, algo_dict['init'],
+  File "main.py", line 131, in objective
+    clf.fit(X_train, y_train)
+  File "/home/kotstot/.conda/envs/pytorch_env/lib/python3.8/site-packages/sklearn/ensemble/_forest.py", line 450, in fit
+    trees = Parallel(
+  File "/home/kotstot/.conda/envs/pytorch_env/lib/python3.8/site-packages/joblib/parallel.py", line 1043, in __call__
+    if self.dispatch_one_batch(iterator):
+  File "/home/kotstot/.conda/envs/pytorch_env/lib/python3.8/site-packages/joblib/parallel.py", line 861, in dispatch_one_batch
+    self._dispatch(tasks)
+  File "/home/kotstot/.conda/envs/pytorch_env/lib/python3.8/site-packages/joblib/parallel.py", line 779, in _dispatch
+    job = self._backend.apply_async(batch, callback=cb)
+  File "/home/kotstot/.conda/envs/pytorch_env/lib/python3.8/site-packages/joblib/_parallel_backends.py", line 208, in apply_async
+    result = ImmediateResult(func)
+  File "/home/kotstot/.conda/envs/pytorch_env/lib/python3.8/site-packages/joblib/_parallel_backends.py", line 572, in __init__
+    self.results = batch()
+  File "/home/kotstot/.conda/envs/pytorch_env/lib/python3.8/site-packages/joblib/parallel.py", line 262, in __call__
+    return [func(*args, **kwargs)
+  File "/home/kotstot/.conda/envs/pytorch_env/lib/python3.8/site-packages/joblib/parallel.py", line 262, in <listcomp>
+    return [func(*args, **kwargs)
+  File "/home/kotstot/.conda/envs/pytorch_env/lib/python3.8/site-packages/sklearn/utils/fixes.py", line 216, in __call__
+    return self.function(*args, **kwargs)
+  File "/home/kotstot/.conda/envs/pytorch_env/lib/python3.8/site-packages/sklearn/ensemble/_forest.py", line 185, in _parallel_build_trees
+    tree.fit(X, y, sample_weight=curr_sample_weight, check_input=False)
+  File "/home/kotstot/.conda/envs/pytorch_env/lib/python3.8/site-packages/sklearn/tree/_classes.py", line 937, in fit
+    super().fit(
+  File "/home/kotstot/.conda/envs/pytorch_env/lib/python3.8/site-packages/sklearn/tree/_classes.py", line 250, in fit
+    raise ValueError(
+ValueError: min_samples_split must be an integer greater than 1 or a float in (0.0, 1.0]; got the integer 1

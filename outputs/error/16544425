@@ -1,0 +1,13 @@
+                                                                 
+                                                                                
+##############################################                                  
+INFORMATION                                                                     
+##############################################                                  
+                                                                                
+You have loaded the base anaconda environment. For specialized environments,    
+you must first enable them with `source activate [env]`.                        
+                                                                                
+For a full list of environments, type `conda env list`                          
+  
+*** Error in `python3': double free or corruption (fasttop): 0x00002b6b78000a70 ***
+/var/spool/slurmd/job16544425/slurm_script: line 17: 160702 Segmentation fault      python3 $2 $3
